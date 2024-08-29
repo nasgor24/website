@@ -1,0 +1,23 @@
+.border{
+    border: solid 5px;
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: 50px;
+}
+body{
+    background-color: rgba(255, 191, 0, 0.599);
+}
+#background-head{
+    border: solid;
+}
+h2 {
+    text-align: center;
+}
+img {
+    height: 250px;
+    width: 250px;
+    margin: 0 20px 20px 20px;
+    border: solid;
+    padding: 10px;
+    background-color: black;
+}
